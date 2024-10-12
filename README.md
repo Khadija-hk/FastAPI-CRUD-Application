@@ -99,5 +99,3 @@ This will run the application locally, accessible at `http://127.0.0.1:8000`.
 
 Feel free to customize this as per your project’s requirements!
 ```
-
-This version adds some structure, explanations, and details to help users better understand how to use the application, navigate the API, and set up the project.
