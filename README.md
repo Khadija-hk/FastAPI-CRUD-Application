@@ -98,4 +98,4 @@ This will run the application locally, accessible at `http://127.0.0.1:8000`.
 ---
 
 Feel free to customize this as per your project’s requirements!
-```
+
